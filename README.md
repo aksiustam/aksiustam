@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" disabled="true"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React-Native" width="26px" src="https://raw.githubusercontent.com/facebook/react-native/master/Libraries/NewAppScreen/components/logo.png?cacheBust=notinCache" />
@@ -29,7 +29,8 @@
 <!--START_SECTION:activity-->
 
 - [İlk React Projem - ContentApi - JSON server](https://github.com/aksiustam/reactapp)
-
+- [React - Bootstrap](https://github.com/aksiustam/bootstrap)
+- [React - Api Fetch](https://github.com/aksiustam/blog)
 <!--END_SECTION:activity-->
 
 </details>
@@ -39,8 +40,9 @@
   
 <!--START_SECTION:activity-->
 
-- [Microinteractions: Password Validation Animation](https://github.com/aksiustam/reactapp)
-
+- [İlk React Native Projem - TypeScript](https://github.com/aksiustam/DoneWithIt)
+- [Whatsapp arayüzü tasarlama](https://github.com/aksiustam/whatsup)
+- [KiTakip Kitap Takip Uygulaması](https://github.com/aksiustam/kitakip)
 <!--END_SECTION:activity-->
 
 </details>
