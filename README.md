@@ -40,9 +40,9 @@
   
 <!--START_SECTION:activity-->
 
-- [İlk React Native Projem - TypeScript](https://github.com/aksiustam/DoneWithIt)
-- [Whatsapp arayüzü tasarlama](https://github.com/aksiustam/whatsup)
 - [KiTakip Kitap Takip Uygulaması](https://github.com/aksiustam/kitakip)
+- [Whatsapp Arayüzü](https://github.com/aksiustam/whatsup)
+- [İlk React Native Projem - TypeScript](https://github.com/aksiustam/DoneWithIt)
 <!--END_SECTION:activity-->
 
 </details>
@@ -61,9 +61,9 @@
   
 <!--START_SECTION:activity-->
 
+- [GA](https://github.com/aksiustam/GA_rosenbrock)
 - [PSO](https://github.com/aksiustam/PSO)
 - [BM](https://github.com/aksiustam/BM)
-- [GA](https://github.com/aksiustam/GA_rosenbrock)
 
 <!--END_SECTION:activity-->
 
