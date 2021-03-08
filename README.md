@@ -3,7 +3,7 @@
 - 🔭 All of my projects are available at: [aksiustam](https://github.com/aksiustam)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn and make money
-- 🥅 Ask me about **React, React-Native, Asp.Net, MVC, RestFul**
+- 🥅 Ask me about **React, React-Native, Redux, Asp.Net MVC, RestFul**
 - ⚡ How to reach me ahmekilic@hotmail.com
 
 ### Languages and Tools:
