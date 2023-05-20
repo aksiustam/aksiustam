@@ -22,6 +22,17 @@
 <br />
 
 ### 📕 Projelerim
+<details>
+  <summary>:zap: MERN PROJELERİ</summary>
+  
+<!--START_SECTION:activity-->
+
+- [MERN_Giris](https://github.com/aksiustam/mern_giris)
+
+<!--END_SECTION:activity-->
+
+</details>
+
 
 <details>
   <summary>:zap: React Projeleri</summary>
