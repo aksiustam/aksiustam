@@ -23,7 +23,7 @@
 
 ### 📕 Projelerim
 <details>
-  <summary>:zap: MERN PROJELERİ</summary>
+  <summary>:zap: MERN Projeleri</summary>
   
 <!--START_SECTION:activity-->
 
