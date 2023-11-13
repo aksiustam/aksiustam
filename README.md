@@ -32,6 +32,7 @@
 <!--END_SECTION:activity-->
 
 </details>
+<details>
   <summary>:zap: MERN Projeleri</summary>
   
 <!--START_SECTION:activity-->
