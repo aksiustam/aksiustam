@@ -23,6 +23,15 @@
 
 ### 📕 Projelerim
 <details>
+    <summary>:zap: Yeni Projelerim</summary>
+  
+<!--START_SECTION:activity-->
+
+- [AnadoluTab MERN Websitesi](https://github.com/aksiustam/anadolutab)
+
+<!--END_SECTION:activity-->
+
+</details>
   <summary>:zap: MERN Projeleri</summary>
   
 <!--START_SECTION:activity-->
