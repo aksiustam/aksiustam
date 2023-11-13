@@ -23,12 +23,12 @@
 
 ### 📕 Projelerim
 <details>
-    <summary>:zap: Yeni Projelerim</summary>
+    <summary>:zap:En Yeni Projelerim</summary>
   
 <!--START_SECTION:activity-->
 
 - [AnadoluTab MERN Websitesi](https://github.com/aksiustam/anadolutab)
-
+- [KolayOkuma App-Api-Web](https://github.com/aksiustam/KolayOkumaStackProjesi)
 <!--END_SECTION:activity-->
 
 </details>
