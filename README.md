@@ -64,6 +64,7 @@
 <!--START_SECTION:activity-->
 
 - [DeliveryWi](https://www.deliverywioffical.com/)
+- [KonyaOkyanusBalık](https://konyaokyanusbalik.com/)
 - [DurlarTurizm](https://durlarturizm.com/)
 
 <!--END_SECTION:activity-->
