@@ -3,7 +3,7 @@
 - 🔭 All of my projects are available at: [aksiustam](https://github.com/aksiustam)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn and make money
-- 🥅 Ask me about **React, React-Native, Redux, Asp.Net MVC, RestFul**
+- 🥅 Ask me about **NEXT JS, React-Native, React , Express, RestFul**
 - ⚡ How to reach me ahmekilic@hotmail.com
 
 ### Languages and Tools:
@@ -28,7 +28,7 @@
 <!--START_SECTION:activity-->
 
 - [AnadoluTab MERN Websitesi](https://github.com/aksiustam/anadolutab)
-- [KolayOkuma App-Api-Web](https://github.com/aksiustam/KolayOkumaStackProjesi)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -50,8 +50,7 @@
 <!--START_SECTION:activity-->
 
 - [İlk React Projem - ContentApi - JSON server](https://github.com/aksiustam/reactapp)
-- [React - Bootstrap](https://github.com/aksiustam/bootstrap)
-- [React - Api Fetch](https://github.com/aksiustam/blog)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -63,7 +62,7 @@
 
 - [KiTakip Kitap Takip Uygulaması](https://github.com/aksiustam/kitakip)
 - [Whatsapp Arayüzü](https://github.com/aksiustam/whatsup)
-- [İlk React Native Projem - TypeScript](https://github.com/aksiustam/DoneWithIt)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -73,7 +72,7 @@
 <!--START_SECTION:activity-->
 
 - [Asp.NET MVC - Authentication - ES6 - Excel Data Transfer - Mail to Forgotten Password](https://github.com/aksiustam/ProjeTakipWeb)
-- [İlk Asp.Net Projem](https://github.com/aksiustam/WebBike)
+
 <!--END_SECTION:activity-->
 
 </details>
