@@ -23,33 +23,48 @@
 
 ### 📕 Projelerim
 <details>
-    <summary>:zap:En Yeni Projelerim</summary>
+    <summary>:zap: NextJS E-Ticaret </summary>
   
 <!--START_SECTION:activity-->
 
-- [AnadoluTab MERN Websitesi](https://github.com/aksiustam/anadolutab)
+- [NextJS-ETicaret-Websitesi](https://github.com/aksiustam/NextJS-ETicaret-Websitesi)
+- [NextJS-ECommerce-Website](https://github.com/aksiustam/NextJS-ECommerce-Website)
+- [OnePage-Ecommerce-Website](https://github.com/aksiustam/OnePage-Ecommerce-Website)
 
 <!--END_SECTION:activity-->
 
 </details>
 <details>
-  <summary>:zap: MERN Projeleri</summary>
+  <summary>:zap: NextJS Website</summary>
   
 <!--START_SECTION:activity-->
 
-- [MERN_Giris](https://github.com/aksiustam/mern_giris)
+- [RumiCeremony](https://github.com/aksiustam/TanitimWebsitesi)
+- [KolejWebsitesi](https://github.com/aksiustam/Kolej-Websitesi)
 
 <!--END_SECTION:activity-->
 
 </details>
 
+<details>
+  <summary>:zap: React Native App Projeleri</summary>
+  
+<!--START_SECTION:activity-->
+
+- [DeliveryWi](https://www.deliverywioffical.com/)
+- [DurlarTurizm](https://durlarturizm.com/)
+
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>:zap: React Projeleri</summary>
   
 <!--START_SECTION:activity-->
 
-- [İlk React Projem - ContentApi - JSON server](https://github.com/aksiustam/reactapp)
+- [DeliveryWi](https://www.deliverywioffical.com/)
+- [DurlarTurizm](https://durlarturizm.com/)
 
 <!--END_SECTION:activity-->
 
