@@ -51,8 +51,8 @@
   
 <!--START_SECTION:activity-->
 
-- [DeliveryWi](https://www.deliverywioffical.com/)
-- [DurlarTurizm](https://durlarturizm.com/)
+- [ERepair](https://github.com/aksiustam/Erepair-app-ReactNative)
+- [KolayOkuma](https://github.com/aksiustam/EnderGenclik-Apk-ReactNative)
 
 <!--END_SECTION:activity-->
 
