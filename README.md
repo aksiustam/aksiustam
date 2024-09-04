@@ -71,7 +71,7 @@
 </details>
 
 <details>
-  <summary>:zap: React-Native Projeleri</summary>
+  <summary>:zap: React-Native Eski Projeler</summary>
   
 <!--START_SECTION:activity-->
 
