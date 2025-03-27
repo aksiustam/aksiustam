@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn and make money
 - 🥅 Ask me about **NEXT JS, React-Native, React, Express, MySql, Prisma, RestFul and some Android Studio**
+- 2 Year experience about Next JS and React
 - ⚡ How to reach me ahmekilic@hotmail.com
 
 ### Languages and Tools:
